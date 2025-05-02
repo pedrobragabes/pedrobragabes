@@ -49,15 +49,15 @@
 | **Sistema de Estoque SaaS**     | Integração loja física + e-commerce (WooCommerce)      | Node.js, React, MySQL, Docker |
 | **JoysticKnights**             | Site de notícias e análises de games                   | WordPress, PHP, MySQL       |
 
-> 🚧 Mais projetos no meu perfil: [github.com/seu-usuario?tab=repositories](https://github.com/seu-usuario?tab=repositories)
+> 🚧 Mais projetos no meu perfil: [github.com/errinhopog?tab=repositories](https://github.com/seu-usuario?tab=repositories)
 
 ---
 
 ## 📈 Estatísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark" alt="Top Langs" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark" alt="Top Langs" width="48%"/>
 </p>
 
 ---
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=errinhopog&color=blue" alt="Visitor Count"/>
 </p>
