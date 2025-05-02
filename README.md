@@ -8,9 +8,9 @@
 <h3 align="center">Desenvolvedor de Software | Apaixonado por Hardware & Software | Futuro Engenheiro de Computação</h3>
 
 <p align="center">
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:pedrobraga855@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/seu-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/seu-twitter](https://x.com/errinhopog"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/seu-instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
@@ -20,9 +20,7 @@
 
 - 🎓 Cursando Engenharia de Computação (UNIVESP)  
 - 💼 Desenvolvedor full-stack no projeto Aquaflora Agroshop (WooCommerce, SaaS em construção)  
-- 💡 Apaixonado por sistemas de estoque, automação e soluções que unem loja física e e-commerce  
 - 💻 Estudando e revisando fundamentos de programação com Alura (nível intermediário/avançado)  
-- 🏋️‍♂️ Amante de calistenia e treinos com saco de pancadas  
 - 🌱 Sempre em busca de aprender novas tecnologias e contribuir em projetos open source  
 
 ---
@@ -49,9 +47,7 @@
 | Projeto                         | Descrição                                              | Tech                         |
 |---------------------------------|--------------------------------------------------------|------------------------------|
 | **Sistema de Estoque SaaS**     | Integração loja física + e-commerce (WooCommerce)      | Node.js, React, MySQL, Docker |
-| **JoystickKnights**             | Site de notícias e análises de games                   | WordPress, PHP, MySQL       |
-| **Todoist: ONG Reflorestamento**| Gestão de ONG de brotos e monitoramento de árvores     | JavaScript, APIs REST       |
-| **Far Cry 6 Review**            | Análises de gameplay e experiências com Ubisoft         | Markdown, Blog, SEO         |
+| **JoysticKnights**             | Site de notícias e análises de games                   | WordPress, PHP, MySQL       |
 
 > 🚧 Mais projetos no meu perfil: [github.com/seu-usuario?tab=repositories](https://github.com/seu-usuario?tab=repositories)
 
@@ -69,9 +65,8 @@
 ## 🎯 Metas para 2025
 
 - 🚀 Lançar versão beta do sistema de estoque SaaS  
-- 🎓 Concluir estágio virtual em TI e graduação na UNIVESP  
-- 📚 Aprofundar conhecimentos em cloud (AWS/GCP)  
-- 🤝 Colaborar em 5 projetos open source  
+- 🎓 Começar estudos na UNIVESP   
+- 🤝 Colaborar em projetos open source  
 
 ---
 
