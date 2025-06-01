@@ -49,7 +49,7 @@
 | **Sistema de Estoque SaaS**     | Integração loja física + e-commerce (WooCommerce)      | Node.js, React, MySQL, Docker |
 | **JoysticKnights**             | Site de notícias e análises de games                   | WordPress, PHP, MySQL       |
 
-> 🚧 Mais projetos no meu perfil: [github.com/errinhopog?tab=repositories](https://github.com/seu-usuario?tab=repositories)
+> 🚧 Mais projetos no meu perfil: https://github.com/errinhopog?tab=repositories
 
 ---
 
