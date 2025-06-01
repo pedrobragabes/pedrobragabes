@@ -1,6 +1,6 @@
 <!-- banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/errinhopog/errinhopog/main/banner.png" alt="Banner" width="100%"/>
+  <img src="" alt="Banner" width="100%"/>
 </p>
 
 <!-- cabeçalho -->
