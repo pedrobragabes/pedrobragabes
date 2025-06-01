@@ -1,7 +1,7 @@
 <!-- banner -->
-//<p align="center">
-  //<img src="" alt="Banner" width="100%"/>
-//</p>
+<!-- banner --><p align="center">
+  <!-- banner --><img src="" alt="Banner" width="100%"/>
+<!-- banner --></p>
 
 <!-- cabeçalho -->
 <h1 align="center">Olá, eu sou o Pedro Braga 👋</h1>
