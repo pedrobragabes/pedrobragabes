@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/errinhopog/errinhopog/blob/main/media/Pedro%20Braga.png)
 <!-- cabeçalho -->
 <h1 align="center">Olá, eu sou o Pedro Braga 👋</h1>
 <h3 align="center">Desenvolvedor de Software | Apaixonado por Hardware & Software | Futuro Engenheiro de Computação</h3>
