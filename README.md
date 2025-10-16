@@ -36,9 +36,9 @@
 ##  Principais Projetos
 
 | Projeto                         | Descrição                                              | Tech                         |
-|---------------------------------|--------------------------------------------------------|------------------------------|
-| **Sistema de Estoque SaaS**     | Integração loja física + e-commerce (WooCommerce)      | Node.js, React, MySQL, Docker |
-| **JoysticKnights**             | Site de notícias e análises de games                   | WordPress, PHP, MySQL       |
+|--------------------------------------|--------------------------------------------------------|-----------------------------------------|
+| **AquaFlora AgroShop Ecommerce**     | Integração loja física + e-commerce (WooCommerce)      | Node.js, React, MySQL, Docker, Wordpress|
+| **JoysticKnights**                   | Site de notícias e análises de games                   | WordPress, PHP, MySQL                   |
 
 >  Mais projetos no meu perfil: https://github.com/errinhopog?tab=repositories
 
