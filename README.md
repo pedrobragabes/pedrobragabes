@@ -8,7 +8,7 @@ Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
 ## Agora
 - UNIVESP: Engenharia de Computação (ciclo básico concluído/em curso).
 - AquaFlora AgroShop: e-commerce WooCommerce em operação, catálogo grande, automações de importação CSV e otimização de mídia.
-- JoystickNights: portal de notícias/jogos em WordPress, pautas e análises técnicas.
+- JoysticKnights: portal de notícias/jogos em WordPress, pautas e análises técnicas.
 
 ## Tech Stack (núcleo)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&style=flat)
@@ -25,7 +25,7 @@ Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
 - **AquaFlora AgroShop** — Integração loja física + e-commerce, rotinas de importação de estoque (CSV/ERP), otimização de imagens, categorias e frete.  
   *Stack:* WordPress, WooCommerce, PHP, Node.js (scripts), MySQL, Docker (dev)
 
-- **JoystickNights** — Site de notícias e análises de games com pipeline editorial e SEO técnico.  
+- **JoysticKnights** — Site de notícias e análises de games com pipeline editorial e SEO técnico.  
   *Stack:* WordPress, PHP, MySQL
 
 - **Portfólio codado (em andamento)** — Site próprio sem CMS para consolidar projetos e estudos.  
@@ -34,7 +34,7 @@ Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
 > Repositórios: https://github.com/errinhopog?tab=repositories
 
 ## Artigos / Conteúdo
-- JoystickNights — notícias, reviews e coberturas da indústria.
+- JoysticKnights — notícias, reviews e coberturas da indústria.
 
 ## Estatísticas
 <details>
