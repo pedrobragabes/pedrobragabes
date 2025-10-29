@@ -34,7 +34,7 @@ Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
 > Repositórios: https://github.com/errinhopog?tab=repositories
 
 ## Artigos / Conteúdo
-- JoysticKnights — notícias, reviews e coberturas da indústria.
+- JoysticKnights — notícias, reviews e coberturas da indústria de games.
 
 ## Estatísticas
 <details>
