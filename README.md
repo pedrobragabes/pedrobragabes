@@ -1,66 +1,54 @@
-![Banner](https://github.com/errinhopog/errinhopog/blob/main/media/Pedro%20Braga.png)
-<!-- cabeçalho -->
-<h1 align="center">Olá, eu sou o Pedro Braga 👋</h1>
-<h3 align="center">Desenvolvedor de Software | Apaixonado por Hardware & Software | Futuro Engenheiro de Computação</h3>
+![Banner de Pedro Braga](https://github.com/errinhopog/errinhopog/blob/main/media/Pedro%20Braga.png)
 
-<p align="center">
-  <a href="mailto:pedrobraga855@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pedrobragabes/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/errinhopog"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/pedrobragabes/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+# Pedro Braga
+Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
 
----
+> Foco: e-commerce com WooCommerce/WordPress, integrações Node.js e automações para varejo.
 
-## Sobre Mim
+## Agora
+- UNIVESP: Engenharia de Computação (ciclo básico concluído/em curso).
+- AquaFlora AgroShop: e-commerce WooCommerce em operação, catálogo grande, automações de importação CSV e otimização de mídia.
+- JoystickNights: portal de notícias/jogos em WordPress, pautas e análises técnicas.
 
-- 🎓 Cursando Engenharia de Computação (UNIVESP)  
-- 💼 Desenvolvedor full-stack no projeto Aquaflora Agroshop (WooCommerce, SaaS em construção)  
-- 💻 Estudando e revisando fundamentos de programação com Alura (nível intermediário/avançado)  
-- 🌱 Sempre em busca de aprender novas tecnologias e contribuir em projetos open source  
+## Tech Stack (núcleo)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 
----
+## Projetos em destaque
+- **AquaFlora AgroShop** — Integração loja física + e-commerce, rotinas de importação de estoque (CSV/ERP), otimização de imagens, categorias e frete.  
+  *Stack:* WordPress, WooCommerce, PHP, Node.js (scripts), MySQL, Docker (dev)
 
-##  Stack & Ferramentas
+- **JoystickNights** — Site de notícias e análises de games com pipeline editorial e SEO técnico.  
+  *Stack:* WordPress, PHP, MySQL
 
-<p align="center">
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="WooCommerce" src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
+- **Portfólio codado (em andamento)** — Site próprio sem CMS para consolidar projetos e estudos.  
+  *Stack:* JavaScript, Node.js, HTML/CSS
 
----
+> Repositórios: https://github.com/errinhopog?tab=repositories
 
-##  Principais Projetos
+## Artigos / Conteúdo
+- JoystickNights — notícias, reviews e coberturas da indústria.
 
-| Projeto                         | Descrição                                              | Tech                         |
-|--------------------------------------|--------------------------------------------------------|-----------------------------------------|
-| **AquaFlora AgroShop Ecommerce**     | Integração loja física + e-commerce (WooCommerce)      | Node.js, React, MySQL, Docker, Wordpress|
-| **JoysticKnights**                   | Site de notícias e análises de games                   | WordPress, PHP, MySQL                   |
+## Estatísticas
+<details>
+  <summary>Ver métricas de GitHub</summary>
 
->  Mais projetos no meu perfil: https://github.com/errinhopog?tab=repositories
+  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub de Pedro Braga" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark" alt="Linguagens mais usadas" width="49%" />
 
----
+</details>
 
-##  Estatísticas de GitHub
+## Metas 2025
+- Consolidar o e-commerce da AquaFlora com automações estáveis de catálogo/estoque.
+- Publicar o portfólio próprio (sem WordPress) com cases e código.
+- Contribuir em projetos open source voltados a WordPress/WooCommerce ou automação.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark" alt="Top Langs" width="48%"/>
-</p>
-
----
-
-## Metas para 2025
-
--  Lançar versão beta do sistema de estoque SaaS  
--  Começar estudos na UNIVESP   
--  Colaborar em projetos open source  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=errinhopog&color=blue" alt="Visitor Count"/>
-</p>
+## Contato
+[Email](mailto:pedrobraga855@gmail.com) • [LinkedIn](https://www.linkedin.com/in/pedrobragabes/) • [X/Twitter](https://x.com/errinhopog) • [Instagram](https://www.instagram.com/pedrobragabes/)
