@@ -41,8 +41,8 @@ Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
 <details>
   <summary>Ver métricas de GitHub</summary>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub de Pedro Braga" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark" alt="Linguagens mais usadas" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark&cache_seconds=7200" alt="Estatísticas do GitHub de Pedro Braga" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark&cache_seconds=7200" alt="Linguagens mais usadas" width="49%" />
 
 </details>
 
