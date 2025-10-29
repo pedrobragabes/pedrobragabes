@@ -22,11 +22,12 @@ Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 
 ## Projetos em destaque
-- **AquaFlora AgroShop** — Integração loja física + e-commerce, rotinas de importação de estoque (CSV/ERP), otimização de imagens, categorias e frete.  
+- **[AquaFlora AgroShop](https://aquafloraagroshop.com.br)** — Integração loja física + e-commerce, rotinas de importação de estoque (CSV/ERP), otimização de imagens, categorias e frete.  
   *Stack:* WordPress, WooCommerce, PHP, Node.js (scripts), MySQL, Docker (dev)
 
-- **JoysticKnights** — Site de notícias e análises de games com pipeline editorial e SEO técnico.  
+- **[JoysticKnights](https://joysticknights.com.br)** — Site de notícias e análises de games com pipeline editorial e SEO técnico.  
   *Stack:* WordPress, PHP, MySQL
+
 
 - **Portfólio codado (em andamento)** — Site próprio sem CMS para consolidar projetos e estudos.  
   *Stack:* JavaScript, Node.js, HTML/CSS
