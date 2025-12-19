@@ -1,7 +1,7 @@
 ![Banner de Pedro Braga](https://github.com/pedrobragabes/pedrobragabes/blob/main/media/Pedro%20Braga.png)
 
 # Pedro Braga
-**Software Engineer • Co-Founder • Infraestrutura & DevOps Enthusiast**
+**Software Engineer • DevOps**
 
 > "Construindo soluções que escalam e gerenciando a infraestrutura onde elas rodam."
 
