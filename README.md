@@ -1,55 +1,85 @@
 ![Banner de Pedro Braga](https://github.com/pedrobragabes/pedrobragabes/blob/main/media/Pedro%20Braga.png)
 
 # Pedro Braga
-Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
+**Software Engineer • Co-Founder • Infraestrutura & DevOps Enthusiast**
 
-> Foco: e-commerce com WooCommerce/WordPress, integrações Node.js e automações para varejo.
+> "Construindo soluções que escalam e gerenciando a infraestrutura onde elas rodam."
 
-## Agora
-- UNIVESP: Engenharia de Computação (ciclo básico concluído/em curso).
-- AquaFlora AgroShop: e-commerce WooCommerce em operação, catálogo grande, automações de importação CSV e otimização de mídia.
-- JoysticKnights: portal de notícias/jogos em WordPress, pautas e análises técnicas.
+Estudante de Engenharia de Computação (UNIVESP) focado em resolver problemas reais de negócio através da tecnologia. Atuo no ciclo completo: da arquitetura do software (Full Stack) à implementação do servidor (Infra/Ops).
 
-## Tech Stack (núcleo)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff&style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+---
 
-## Projetos em destaque
-- **[AquaFlora AgroShop](https://aquafloragroshop.com.br)** — Integração loja física + e-commerce, rotinas de importação de estoque (CSV/ERP), otimização de imagens, categorias e frete.  
-  *Stack:* WordPress, WooCommerce, PHP, Node.js (scripts), MySQL, Docker (dev)
+## 🛠 Tech Stack & Ferramentas
 
-- **[JoysticKnights](https://joysticknights.com.br)** — Site de notícias e análises de games com pipeline editorial e SEO técnico.  
-  *Stack:* WordPress, PHP, MySQL
+**Infraestrutura & DevOps (HomeLab & Prod)**
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
+**Backend & Dados**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
-- **Portfólio codado (em andamento)** — Site próprio sem CMS para consolidar projetos e estudos.  
-  *Stack:* JavaScript, Node.js, HTML/CSS
+**Frontend & Design**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-> Repositórios: https://github.com/errinhopog?tab=repositories
+---
 
-## Artigos / Conteúdo
-- JoysticKnights — notícias, reviews e coberturas da indústria de games.
+## 🚀 Projetos em Destaque
 
-## Estatísticas
-<details>
-  <summary>Ver métricas de GitHub</summary>
+### 🏢 [AquaFlora AgroShop](https://aquafloragroshop.com.br) (Co-Founder & Lead Dev)
+*E-commerce de alto volume e ferramentas internas de gestão.*
+- **Escala:** Gestão de catálogo com **3000+ produtos** e automação de importação via scripts (Python/Node.js).
+- **Inovação:** Desenvolvimento de **Web App Mobile para Gestão de Estoque** (leitura de código de barras), descentralizando o acesso ao sistema legado.
+- **IA:** Bot de atendimento automatizado via WhatsApp (Node.js) treinado com regras de negócio.
+- **Stack:** WordPress, WooCommerce, Node.js, MySQL, Docker.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark&cache_seconds=7200" alt="Estatísticas do GitHub de Pedro Braga" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark&cache_seconds=7200" alt="Linguagens mais usadas" width="49%" />
+### 🏠 HomeLab Enterprise Infrastructure
+*Infraestrutura de servidores on-premise para hospedagem de serviços e automação.*
+- **Virtualização:** Cluster **Proxmox VE** gerenciando contêineres LXC e VMs.
+- **Networking:** Implementação de **Zero Trust (Tailscale)** e Proxy Reverso (Nginx) para acesso seguro externo.
+- **Serviços:** Hospedagem de 15+ serviços (Game Servers, Automação, Bancos de Dados) com otimização de kernel e hardware.
 
-</details>
+### 🎮 Kingdom of Aen (Game Engine)
+*Jogo de cartas estratégico desenvolvido com Vanilla JS.*
+- **Engenharia:** Focado em **Programação Orientada a Objetos (POO)** e Design Patterns para gerenciamento de estado complexo.
+- **Performance:** Manipulação direta do DOM sem dependência de frameworks pesados.
 
-## Metas 2025
-- Consolidar o e-commerce da AquaFlora com automações estáveis de catálogo/estoque.
-- Publicar o portfólio próprio (sem WordPress) com cases e código.
-- Contribuir em projetos open source voltados a WordPress/WooCommerce ou automação.
+### 🕹️ [JoysticKnights](https://joysticknights.com.br)
+*Portal de mídia e jornalismo de games.*
+- **SEO Técnico:** Otimização para Core Web Vitals e indexação rápida.
+- **Stack:** WordPress Customizado, PHP, Integrações de API.
 
-## Contato
-[Email](mailto:pedrobraga855@gmail.com) • [LinkedIn](https://www.linkedin.com/in/pedrobragabes/) • [X/Twitter](https://x.com/errinhopog) • [Instagram](https://www.instagram.com/pedrobragabes/)
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" width="48%" />
+</div>
+
+---
+
+## 🎯 Metas 2025
+- Expandir a infraestrutura do HomeLab com Kubernetes (k3s).
+- Refinar as integrações de IA na AquaFlora para análise preditiva de estoque.
+- Contribuir ativamente para a comunidade Open Source de ferramentas DevOps/Self-hosted.
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobraga855@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobragabes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrobragabes/)
+
+</div>
