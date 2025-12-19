@@ -63,8 +63,8 @@ Estudante de Engenharia de Computação (UNIVESP) focado em resolver problemas r
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=errinhopog&show_icons=true&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errinhopog&layout=compact&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrobragabes&show_icons=true&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobragabes&layout=compact&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" width="48%" />
 </div>
 
 ---
