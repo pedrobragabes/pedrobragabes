@@ -1,4 +1,4 @@
-![Banner de Pedro Braga](https://github.com/errinhopog/errinhopog/blob/main/media/Pedro%20Braga.png)
+![Banner de Pedro Braga](https://github.com/pedrobragabes/pedrobragabes/blob/main/media/Pedro%20Braga.png)
 
 # Pedro Braga
 Desenvolvedor de Software • Engenharia de Computação (UNIVESP)
