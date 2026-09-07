@@ -1,177 +1,87 @@
-<div align="center">
-  <img src="https://github.com/pedrobragabes/pedrobragabes/blob/main/media/Pedro%20Braga.png" alt="Banner Pedro Braga" width="100%" />
+<p align="center">
+  <img src="./media/profile-banner.svg" alt="Pedro Braga — Software Engineer" width="100%" />
+</p>
 
-# Pedro Braga
+<p align="center">
+  <strong>Aplicações web, integrações e automações para operações reais.</strong><br />
+  Full-stack · E-commerce · Backend & APIs
+</p>
 
-**Software Engineer • Full-Stack Developer • Computer Engineering Student**
+<p align="center">
+  <a href="https://pedrobragabes.com">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/pedrobragabes/">LinkedIn</a> ·
+  <a href="mailto:pedrobraga855@gmail.com">E-mail</a> ·
+  <a href="#projetos-em-destaque">Projetos</a>
+</p>
 
-Estudante de Engenharia de Computação na UNIVESP, desenvolvendo aplicações web, integrações, automações e infraestrutura para produtos reais.
+## Sobre mim
 
-<a href="#stack">Stack</a> • <a href="#projetos">Projetos</a> • <a href="#contato">Contato</a>
+Sou **Pedro Braga**, Software Engineer na **AquaFlora AgroShop**, fundador da **BragaCode** e estudante de **Engenharia de Computação na UNIVESP**. Desenvolvo software para conectar a operação de pequenos negócios ao ambiente digital: do estoque de um ERP ao e-commerce, das APIs aos painéis e às telas da loja.
 
-</div>
+Meu trabalho combina **TypeScript, React/Next.js, Node.js e Python**, com atenção à integridade dos dados, autenticação, testes e manutenção. Gosto de acompanhar o caminho completo de uma solução: entender o problema, construir, integrar e cuidar da operação.
 
----
+## Projetos em destaque
 
-## Sobre
+### [AquaFlora Stock Sync](https://github.com/pedrobragabes/aquaflora-stock-sync)
+**Integração entre ERP legado e WooCommerce.** Sincroniza preços e estoque do Athos com a loja virtual, preservando o conteúdo do catálogo.
 
-Sou desenvolvedor focado em **Full-Stack Development**, com interesse forte em arquitetura de software, aplicações web modernas, automações e infraestrutura.
+- Modo LITE restrito a produtos existentes, simulação antes da execução e proteção de edições manuais.
+- Automação no Windows, registros de execução e tratamento de dados de catálogo.
 
-Atualmente trabalho como **Software Engineer na AquaFlora AgroShop**, atuando no desenvolvimento de sistemas internos, integrações com WooCommerce, sincronização de estoque, APIs, automações e suporte técnico à operação digital.
+`Python` `WooCommerce REST API` `SQLite` `PowerShell`
 
-Também estudo continuamente **React, Next.js, Engenharia de Software, Backend, Banco de Dados e DevOps**, combinando formação acadêmica, cursos práticos e projetos próprios.
+### [AquaTV](https://github.com/pedrobragabes/AquaFloraTV)
+**Gestão de conteúdo para as TVs da loja.** Reúne dashboard, API e aplicativo Android TV para organizar mídias, playlists e programação na rede local.
 
----
+- Player com cache e reprodução offline, monitoramento de dispositivos e recuperação de falhas.
+- MVP instalado em dispositivo físico, com validações operacionais de go-live em andamento.
 
-## Stack
+`TypeScript` `Next.js` `Express` `Prisma` `SQLite` `React Native / Expo`
 
-<div align="center">
+### [Braga Commerce](https://github.com/pedrobragabes/Braga-Commerce)
+**E-commerce para pequenos comércios locais.** Vitrine, carrinho, checkout e painel administrativo em um beta com acesso protegido.
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+- Reserva de estoque, validação de preços no servidor e integração com Mercado Pago.
+- Autenticação e permissões administrativas, webhooks idempotentes e testes automatizados.
 
-**Backend & Dados**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+`TypeScript` `Next.js` `PostgreSQL` `Prisma` `Supabase` `Mercado Pago`
 
-**Ferramentas & Infraestrutura**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square\&logo=proxmox\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square\&logo=woocommerce\&logoColor=white)
+### [JoystickNights](https://github.com/pedrobragabes/JoysticKnights)
+**Plataforma editorial própria sobre games.** Portal que criei e mantenho desde 2020, conectando desenvolvimento web e produção de conteúdo.
 
-</div>
+- Frontend em Next.js integrado ao WordPress como CMS headless.
+- Experiência com publicação editorial, customizações e evolução da arquitetura do portal.
 
----
+`TypeScript` `Next.js` `React` `Tailwind CSS` `WordPress`
+
+## Tecnologias e prática
+
+| Área | Tecnologias |
+| --- | --- |
+| Interfaces | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| Backend e integrações | Node.js, Express, Python, APIs REST, WordPress e WooCommerce |
+| Dados | PostgreSQL, SQLite, MySQL, Prisma e Supabase |
+| Qualidade e entrega | Git, GitHub Actions, Vitest, Playwright e Docker |
+| Infraestrutura e laboratório | Linux, Nginx, Proxmox e Cloudflare Workers |
+
+Na prática, me interesso por **contratos de API, consistência de estoque, controle de acesso, processamento idempotente e recuperação de falhas** — detalhes que fazem diferença quando o software passa a apoiar uma operação.
+
+## Outras frentes
+
+- **[BragaCode](https://github.com/pedrobragabes/BragaCode)** — minha iniciativa de desenvolvimento de software, com foco em aplicações web, integrações, automação e infraestrutura para negócios.
+- **[Estudos UNIVESP](https://github.com/pedrobragabes/Estudos-UNIVESP)** — organizador acadêmico para disciplinas, atividades, notas e prazos, com Next.js e Cloudflare D1.
+- **CadastraFácil** — produto próprio em desenvolvimento para simplificar o cadastro de produtos em pequenas empresas.
+- **HomeLab** — ambiente de prática com virtualização, containers, redes, deploys, backups e monitoramento.
 
 ## Formação
 
-**Bacharelado em Engenharia de Computação**
-Universidade Virtual do Estado de São Paulo — UNIVESP
-2025 — 2030
+**Bacharelado em Engenharia de Computação — UNIVESP**<br />
+2025–2030 · Em andamento
 
-Estudos complementares em desenvolvimento web, React, Next.js, Engenharia de Software, backend, bancos de dados e infraestrutura.
-
-**Idiomas:** Português nativo • Inglês avançado/fluente — EF SET C1
-
----
-
-## Projetos
-
-### AquaFlora AgroShop
-
-**Software Engineer**
-
-Desenvolvimento de soluções internas, integrações e automações para apoiar a operação digital de uma loja física.
-
-* Desenvolvimento do **AquaFlora Estoque Sync**, middleware em Python para sincronização de estoque entre ERP legado e WooCommerce.
-* Criação de web app interno mobile-first para consulta de estoque e preços.
-* Integrações com APIs, automações operacionais e suporte à loja virtual.
-* Atuação com WordPress, WooCommerce, Python, Node.js, Docker, REST APIs e infraestrutura Linux.
-
-[Ver site](https://aquafloragroshop.com.br)
-
----
-
-### Comércio BES
-
-**Full-Stack Developer**
-
-Marketplace e guia digital hiperlocal para Boa Esperança do Sul.
-
-* Desenvolvimento de plataforma própria com foco em negócios locais.
-* Arquitetura mobile-first, busca por categorias, experiência PWA e integração com WhatsApp.
-* Evolução para stack moderna com React/Next.js, API própria e estrutura escalável.
-
----
-
-### E-commerce / Catálogo Digital B2B e B2C
-
-**Full-Stack Developer**
-
-Plataforma customizada para catálogo digital e vendas via WhatsApp.
-
-* Desenvolvimento com Next.js, React, Tailwind CSS, Node.js, MySQL e Prisma.
-* Painel administrativo com CRUD.
-* Integração com Cloudinary.
-* Foco em performance, SEO e experiência mobile.
-
----
-
-### RastreIAGastos + CadastraFácil
-
-**Projetos SaaS em desenvolvimento**
-
-Projetos voltados para automação, produtividade e pequenas empresas.
-
-* RastreIAGastos: controle financeiro com IA, linguagem natural e OCR.
-* CadastraFácil: cadastro de produtos para PMEs com validação e API unificada.
-* Stack planejada com Python, FastAPI, React, PostgreSQL e integrações de IA.
-
----
-
-### JoysticKnights
-
-**Founder & Webmaster**
-
-Portal brasileiro de games criado e mantido desde 2020.
-
-* Desenvolvimento e manutenção em WordPress.
-* Customizações em PHP, JavaScript e CSS.
-* Produção editorial, reviews, guias e relacionamento com publishers.
-
-[Ver site](https://joysticknights.com.br)
-
----
-
-### Hybrid HomeLab
-
-**Infraestrutura própria**
-
-Ambiente local para estudos, deploys, automações e serviços internos.
-
-* Servidor com Proxmox, Docker, Linux, Nginx e containers LXC.
-* Hospedagem de APIs, serviços internos, dashboards e ferramentas auxiliares.
-* Estudos práticos de rede, proxy reverso, SSL, backup, monitoramento e virtualização.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://readme-stats-github.pages.dev/api?username=pedrobragabes&theme=dark" 
-    alt="GitHub Stats" 
-    height="170"
-  />
-  <img 
-    src="https://readme-stats-github.pages.dev/api/top-langs?username=pedrobragabes&theme=dark&layout=compact" 
-    alt="Top Languages" 
-    height="170"
-  />
-</p>
-
----
-
-<div align="center" id="contato">
+**Idiomas:** português nativo · inglês avançado, nível C1 (EF SET).
 
 ## Contato
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pedrobraga855@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedrobragabes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/pedrobragabes/)
+Para conversar sobre desenvolvimento, integrações ou projetos:
 
-</div>
+**[Portfólio](https://pedrobragabes.com)** · **[LinkedIn](https://www.linkedin.com/in/pedrobragabes/)** · **[pedrobraga855@gmail.com](mailto:pedrobraga855@gmail.com)**

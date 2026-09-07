@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Braga — Software Engineer</title>
+  <desc id="desc">Banner azul escuro com detalhes em violeta e turquesa e um diagrama de sistemas conectados.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1729"/><stop offset="1" stop-color="#14172c"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <path d="M800 0V260M880 0V260M960 0V260M1040 0V260M1120 0V260M760 50H1200M760 130H1200M760 210H1200" stroke="#27344b" stroke-opacity=".45"/>
+  <rect x="58" y="52" width="48" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="56" y="141" fill="#f1f5f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Pedro Braga</text>
+  <text x="60" y="191" fill="#bdc9db" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" letter-spacing="2">SOFTWARE ENGINEER</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <path d="M883 78H970V130H1057M883 182H970V130"/>
+    <rect x="825" y="52" width="58" height="52" rx="12" fill="#152638"/>
+    <rect x="825" y="156" width="58" height="52" rx="12" fill="#152638"/>
+    <rect x="1057" y="104" width="58" height="52" rx="12" fill="#23203e"/>
+  </g>
+  <g fill="none" stroke="#7dd3c7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m849 70-8 8 8 8m10-16 8 8-8 8"/>
+    <path d="M843 174h22m-22 8h22m-22 8h14"/>
+  </g>
+  <path d="m1077 131 6 6 12-14" fill="none" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="970" cy="130" r="7" fill="#5eead4"/>
+  <rect x="0" y="254" width="1200" height="6" fill="url(#accent)"/>
+</svg>
