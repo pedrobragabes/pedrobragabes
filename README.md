@@ -16,13 +16,13 @@
 
 ## Sobre mim
 
-Sou **Pedro Braga**, Software Engineer na **AquaFlora AgroShop**, fundador da **BragaCode** e estudante de **Engenharia de Computação na UNIVESP**. Desenvolvo software para conectar a operação de pequenos negócios ao ambiente digital: do estoque de um ERP ao e-commerce, das APIs aos painéis e às telas da loja.
+Sou **Pedro Braga**, Software Engineer com experiência em **operações reais de varejo e e-commerce**, fundador da **BragaCode** e estudante de **Engenharia de Computação na UNIVESP**. Desenvolvo software para conectar a operação de pequenos negócios ao ambiente digital: do estoque de um ERP ao e-commerce, das APIs aos painéis e às telas da loja.
 
 Meu trabalho combina **TypeScript, React/Next.js, Node.js e Python**, com atenção à integridade dos dados, autenticação, testes e manutenção. Gosto de acompanhar o caminho completo de uma solução: entender o problema, construir, integrar e cuidar da operação.
 
 ## Projetos em destaque
 
-### [AquaFlora Stock Sync](https://github.com/pedrobragabes/aquaflora-stock-sync)
+### [Legacy ERP Stock Sync](https://github.com/pedrobragabes/aquaflora-stock-sync)
 **Integração entre ERP legado e WooCommerce.** Sincroniza preços e estoque do Athos com a loja virtual, preservando o conteúdo do catálogo.
 
 - Modo LITE restrito a produtos existentes, simulação antes da execução e proteção de edições manuais.
@@ -30,11 +30,11 @@ Meu trabalho combina **TypeScript, React/Next.js, Node.js e Python**, com atenç
 
 `Python` `WooCommerce REST API` `SQLite` `PowerShell`
 
-### [AquaTV](https://github.com/pedrobragabes/AquaFloraTV)
+### [Retail Digital Signage](https://github.com/pedrobragabes/AquaFloraTV)
 **Gestão de conteúdo para as TVs da loja.** Reúne dashboard, API e aplicativo Android TV para organizar mídias, playlists e programação na rede local.
 
 - Player com cache e reprodução offline, monitoramento de dispositivos e recuperação de falhas.
-- MVP instalado em dispositivo físico, com validações operacionais de go-live em andamento.
+- Histórico de instalação em dispositivo físico; validações operacionais e direitos de distribuição precisam de revisão antes de promovê-lo como base reutilizável.
 
 `TypeScript` `Next.js` `Express` `Prisma` `SQLite` `React Native / Expo`
 
@@ -70,7 +70,8 @@ Na prática, me interesso por **contratos de API, consistência de estoque, cont
 
 - **[BragaCode](https://github.com/pedrobragabes/BragaCode)** — minha iniciativa de desenvolvimento de software, com foco em aplicações web, integrações, automação e infraestrutura para negócios.
 - **[Estudos UNIVESP](https://github.com/pedrobragabes/Estudos-UNIVESP)** — organizador acadêmico para disciplinas, atividades, notas e prazos, com Next.js e Cloudflare D1.
-- **CadastraFácil** — produto próprio em desenvolvimento para simplificar o cadastro de produtos em pequenas empresas.
+- **CadastraFácil** — produto próprio em fundação para cadastros verificáveis e revisão humana; fluxo completo e piloto ainda pendentes.
+- **Commerce Catalog API e WhatsApp Commerce Agent** — projetos privados de integração e atendimento, com contrato de catálogo e implementação local do agente; o piloto externo do agente permanece pendente.
 - **HomeLab** — ambiente de prática com virtualização, containers, redes, deploys, backups e monitoramento.
 
 ## Formação
