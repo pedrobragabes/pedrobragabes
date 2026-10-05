@@ -68,12 +68,11 @@ Trabalho principalmente com **TypeScript, React/Next.js, Node.js e Python**, com
   <a href="https://github.com/pedrobragabes?tab=repositories">
     <img height="170" src="https://readme-stats-github.pages.dev/api?username=pedrobragabes&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true" alt="Estatísticas públicas do GitHub: commits, pull requests, estrelas, repositórios e rank" />
   </a>
-  <a href="https://github.com/pedrobragabes?tab=overview">
-    <img height="170" src="https://streak-stats.demolab.com?user=pedrobragabes&amp;theme=github-dark-blue&amp;hide_border=true" alt="Contribuições no GitHub, sequência atual e maior sequência de atividade" />
-  </a>
 </p>
 
-<sub>Cartões gerados por serviços externos; os números podem variar conforme a cobertura e a atualização de cada serviço.</sub>
+[Ver o histórico de contribuições no GitHub](https://github.com/pedrobragabes?tab=overview)
+
+<sub>Cartão gerado por serviço externo; os números podem variar conforme a cobertura e a atualização. O histórico de contribuições também está disponível diretamente no GitHub.</sub>
 
 ## Tecnologias e prática
 
