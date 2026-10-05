@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Aplicações web, integrações e automações para operações reais.</strong><br />
-  Full-stack · E-commerce · Backend & APIs
+  Full-stack · E-commerce · Backend · APIs
 </p>
 
 <p align="center">
@@ -16,13 +16,15 @@
 
 ## Sobre mim
 
-Sou **Pedro Braga**, Software Engineer na **AquaFlora AgroShop**, fundador da **BragaCode** e estudante de **Engenharia de Computação na UNIVESP**. Desenvolvo software para conectar a operação de pequenos negócios ao ambiente digital: do estoque de um ERP ao e-commerce, das APIs aos painéis e às telas da loja.
+Sou Software Engineer na **AquaFlora AgroShop**, fundador da **BragaCode** e estudante de **Engenharia de Computação na UNIVESP**. Desenvolvo aplicações, integrações e automações que conectam operações reais ao ambiente digital — de sistemas legados e estoque a e-commerce, APIs, painéis e aplicações internas.
 
-Meu trabalho combina **TypeScript, React/Next.js, Node.js e Python**, com atenção à integridade dos dados, autenticação, testes e manutenção. Gosto de acompanhar o caminho completo de uma solução: entender o problema, construir, integrar e cuidar da operação.
+Trabalho principalmente com **TypeScript, React/Next.js, Node.js e Python**, com atenção à integridade de dados, autenticação, testes, observabilidade e manutenção.
 
 ## Projetos em destaque
 
 ### [AquaFlora Stock Sync](https://github.com/pedrobragabes/aquaflora-stock-sync)
+**Status: uso operacional**
+
 **Integração entre ERP legado e WooCommerce.** Sincroniza preços e estoque do Athos com a loja virtual, preservando o conteúdo do catálogo.
 
 - Modo LITE restrito a produtos existentes, simulação antes da execução e proteção de edições manuais.
@@ -30,7 +32,19 @@ Meu trabalho combina **TypeScript, React/Next.js, Node.js e Python**, com atenç
 
 `Python` `WooCommerce REST API` `SQLite` `PowerShell`
 
+### Commerce Agent
+**Status: em desenvolvimento · Repositório privado**
+
+**Motor de comércio conversacional para WhatsApp Business.** Arquitetura que separa o canal de mensagens, o catálogo e a orquestração de IA, com integração planejada à API oficial da Meta.
+
+- Webhooks, filas por conversa, idempotência e transferência para atendimento humano.
+- Respostas sobre produtos condicionadas a dados de catálogo; a LLM não é fonte de preço ou estoque. Integrações externas e piloto ainda em validação, sem operação em produção.
+
+`TypeScript` `Node.js` `PostgreSQL` `Redis` `BullMQ` `APIs` `LLMs`
+
 ### [AquaTV](https://github.com/pedrobragabes/AquaFloraTV)
+**Status: MVP instalado · Validação operacional**
+
 **Gestão de conteúdo para as TVs da loja.** Reúne dashboard, API e aplicativo Android TV para organizar mídias, playlists e programação na rede local.
 
 - Player com cache e reprodução offline, monitoramento de dispositivos e recuperação de falhas.
@@ -38,15 +52,9 @@ Meu trabalho combina **TypeScript, React/Next.js, Node.js e Python**, com atenç
 
 `TypeScript` `Next.js` `Express` `Prisma` `SQLite` `React Native / Expo`
 
-### [Braga Commerce](https://github.com/pedrobragabes/Braga-Commerce)
-**E-commerce para pequenos comércios locais.** Vitrine, carrinho, checkout e painel administrativo em um beta com acesso protegido.
-
-- Reserva de estoque, validação de preços no servidor e integração com Mercado Pago.
-- Autenticação e permissões administrativas, webhooks idempotentes e testes automatizados.
-
-`TypeScript` `Next.js` `PostgreSQL` `Prisma` `Supabase` `Mercado Pago`
-
 ### [JoystickNights](https://github.com/pedrobragabes/JoysticKnights)
+**Status: ativo · Evolução do frontend headless**
+
 **Plataforma editorial própria sobre games.** Portal que criei e mantenho desde 2020, conectando desenvolvimento web e produção de conteúdo.
 
 - Frontend em Next.js integrado ao WordPress como CMS headless.
@@ -54,21 +62,34 @@ Meu trabalho combina **TypeScript, React/Next.js, Node.js e Python**, com atenç
 
 `TypeScript` `Next.js` `React` `Tailwind CSS` `WordPress`
 
+## Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/pedrobragabes?tab=repositories">
+    <img height="170" src="https://readme-stats-github.pages.dev/api?username=pedrobragabes&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true" alt="Estatísticas públicas do GitHub: commits, pull requests, estrelas, repositórios e rank" />
+  </a>
+</p>
+
+[Ver o histórico de contribuições no GitHub](https://github.com/pedrobragabes?tab=overview)
+
+<sub>Cartão gerado por serviço externo; os números podem variar conforme a cobertura e a atualização. O histórico de contribuições também está disponível diretamente no GitHub.</sub>
+
 ## Tecnologias e prática
 
 | Área | Tecnologias |
 | --- | --- |
-| Interfaces | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| Interfaces | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
 | Backend e integrações | Node.js, Express, Python, APIs REST, WordPress e WooCommerce |
-| Dados | PostgreSQL, SQLite, MySQL, Prisma e Supabase |
-| Qualidade e entrega | Git, GitHub Actions, Vitest, Playwright e Docker |
+| Dados | PostgreSQL, SQLite, MySQL, Redis, Prisma e Supabase |
+| Engenharia e entrega | Git, GitHub Actions, Docker, Vitest e Playwright |
 | Infraestrutura e laboratório | Linux, Nginx, Proxmox e Cloudflare Workers |
 
 Na prática, me interesso por **contratos de API, consistência de estoque, controle de acesso, processamento idempotente e recuperação de falhas** — detalhes que fazem diferença quando o software passa a apoiar uma operação.
 
-## Outras frentes
+## Outros projetos e iniciativas
 
-- **[BragaCode](https://github.com/pedrobragabes/BragaCode)** — minha iniciativa de desenvolvimento de software, com foco em aplicações web, integrações, automação e infraestrutura para negócios.
+- **[BragaCode](https://github.com/pedrobragabes/BragaCode)** — desenvolvimento de software para pequenas empresas, com foco em aplicações web, integrações, automação e infraestrutura.
+- **[Braga Commerce](https://github.com/pedrobragabes/Braga-Commerce)** · **Beta** — e-commerce para pequenos comércios, com Next.js, PostgreSQL, Supabase, reserva de estoque, Mercado Pago e painel administrativo. Acesso protegido durante a preparação para lançamento.
 - **[Estudos UNIVESP](https://github.com/pedrobragabes/Estudos-UNIVESP)** — organizador acadêmico para disciplinas, atividades, notas e prazos, com Next.js e Cloudflare D1.
 - **CadastraFácil** — produto próprio em desenvolvimento para simplificar o cadastro de produtos em pequenas empresas.
 - **HomeLab** — ambiente de prática com virtualização, containers, redes, deploys, backups e monitoramento.
@@ -82,6 +103,6 @@ Na prática, me interesso por **contratos de API, consistência de estoque, cont
 
 ## Contato
 
-Para conversar sobre desenvolvimento, integrações ou projetos:
+Aberto a projetos de desenvolvimento, integrações e oportunidades em Engenharia de Software.
 
 **[Portfólio](https://pedrobragabes.com)** · **[LinkedIn](https://www.linkedin.com/in/pedrobragabes/)** · **[pedrobraga855@gmail.com](mailto:pedrobraga855@gmail.com)**
